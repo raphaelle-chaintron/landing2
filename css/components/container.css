@@ -1,0 +1,21 @@
+.container{
+	width: 700px; 
+	margin: 80px auto;
+}
+
+.container btn-orange{
+	background-color: #F14A16;
+}
+}
+
+@media (max-width: 500px) {
+	.container{
+		width: 400px;
+	}
+}
+
+@media (max-width: 750px) {
+	.Container{
+		width: 600px;
+	}
+}
